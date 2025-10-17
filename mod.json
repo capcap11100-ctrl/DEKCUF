@@ -1,24 +1,24 @@
 {
-	"geode": "4.0.1",
+	"geode": "4.8.0",
 	"gd": {
-		"win": "2.2074",
-		"android": "2.2074",
-		"mac": "2.2074",
-		"ios": "2.2074"
+		"win": "2.206",
+		"android": "2.206",
+		"mac": "2.206",
+		"ios": "2.206"
 	},
-	"id": "jojo989.geometwy_dash",
-	"name": "geometwy dash",
-	"version": "v1.0.21",
-	"developer": "jojo989",
-	"description": "makes your game very uwu!!",
-	"repository": "https://github.com/jojo989/geometwy-dash",
+	"id": "ctrl.dekcuf",
+	"name": "DEKCUF",
+	"version": "v999.999.0",
+	"developer": "Too Slow!",
+	"description": "!!!",
+	"repository": "https://github.com/capcap11100-ctrl/DEKCUF",
 	"tags": ["joke"],
 	
 	"settings": {
 		"owoo": {
-			"name": "final uwu",
-			"type": "bool",
-			"description": "put an uwu at the end of evewy text!",
+			"name": ".",
+			"type": "S",
+			"description": ".",
 			"default": false
 
 		}
