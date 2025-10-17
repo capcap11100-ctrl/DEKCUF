@@ -11,11 +11,11 @@ class $modify(CCLabelBMFont) {
 
         //stolen from uwufier, idk if this is the best way to do this >~<
         std::vector<std::pair<std::regex, std::string>> uwuMap = {
-            {std::regex("(?:R|L)"), "W"},
-            {std::regex("(?:r|l)"), "w"},
-            {std::regex("n([aeiou])"), "ny$1"},
-            {std::regex("N([aeiou])"), "Ny$1"},
-            {std::regex("N([AEIOU])"), "Ny$1"},
+            {std::regex("(?:R|L)"), "_"},
+            {std::regex("(?:r|l)"), "_"},
+            {std::regex("n([aeiou])"), "_$1"},
+            {std::regex("N([aeiou])"), "_$1"},
+            {std::regex("N([AEIOU])"), "_$1"},
             {std::regex("ove"), "uv"},
             
         };
